@@ -21,10 +21,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Install / Enable IIS in Windows WITH
   CGI and Common HTTP Features
-- Item 2
+- 
 - Item 3
-- Item 4
-- Item 5
+- install MySQL
+- Install HeidiSQL
 
 <h2>Installation Steps</h2>
 
