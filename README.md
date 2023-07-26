@@ -21,8 +21,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Install / Enable IIS in Windows WITH
   CGI and Common HTTP Features
-- 
-- Item 3
+- install PHP Manager for IIS
+- install VC_redist.x86.exe
 - install MySQL
 - Install HeidiSQL
 
