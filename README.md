@@ -51,7 +51,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 
-<img width="843" alt="image" src="https://github.com/MorissetHippolyte/osticket-prerequisites/assets/140213473/0b7cac11-6f23-4b3d-9747-c443280767d5">
+<img width="838" alt="image" src="https://github.com/MorissetHippolyte/osticket-prerequisites/assets/140213473/b4e2fabe-f7bc-4e34-aca0-7702a756dcc4">
+
 </p>
 <p>
 Once all is installed and squared out you should get this on your browser and you're now ready to log in and start using Osticket
